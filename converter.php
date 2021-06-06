@@ -20,7 +20,7 @@
 		<?php
 
 		  //$string = file_get_contents("https://www.nbrb.by/api/exrates/rates/145");
-		//echo($string);
+		//echo($string); 
 		
 		if ($_GET["go"]) {
 			$date_today = date("m/d/Y"); // вычисляем сегодняшнюю дату
